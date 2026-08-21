@@ -1,6 +1,6 @@
 # European Energy Market Data Pipeline
 
-![Build Status](https://github.com/moumen-bouguessa/energy-market-data-pipeline/actions/workflows/test.yml/badge.svg)
+![Build Status](https://github.com/moumen-bouguessa/energy-market-data-pipeline/actions/workflows/test.yml/badge.svg?branch=main)
 
 Automated data processing pipeline built in Python to simulate, clean, and analyze 24-hour European electricity market data. Includes rolling price averages, grid load alert flags, and automated continuous integration testing via GitHub Actions.
 
